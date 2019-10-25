@@ -1,0 +1,28 @@
+.about-us h2, .about-us h4{
+    text-align: center;
+}
+
+.about-us h2 {
+    color: #22a6b3;
+    font-weight: bold;
+    font-size: 2.5em;
+}
+
+.about-us .blueback{
+    background-color: #22a6b3;
+    color: #ffffff;
+    padding: 3em 4.5em;
+    font-size: 1.2em;
+}
+
+.about-us .post{
+    padding: .5em 0;
+}
+
+.about-posts.post{
+    padding: 2em;
+}
+
+.about-posts li{
+    list-style: none;
+}
